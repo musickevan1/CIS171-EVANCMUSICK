@@ -1,0 +1,26 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 21, 2023, 6:43:55 PM
+    Author     : evanmusick
+*/
+
+/* Set the background color of the window */
+.root {
+    -fx-background-color: #323232;
+}
+
+/* Set the font and color of the instructions text */
+.instructions {
+    -fx-font-family: "Arial";
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-fill: #ffffff;
+}
+
+/* Set the color of the car image */
+.car {
+    -fx-background-color: transparent;
+}
