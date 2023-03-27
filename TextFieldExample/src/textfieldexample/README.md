@@ -2,7 +2,7 @@
 JavaFX Text Field Example
 
 ## Example Output
-Output.png
+![Screenshot](url "Output.PNG")
 ## Analysis Steps
 The requirements for this project are to create a JavaFX program that dynamically adjusts the horizontal alignment and column size of a text field based on user input. To accomplish this, the program should have a text field, radio buttons for horizontal alignment, and a text field for column size.
 
