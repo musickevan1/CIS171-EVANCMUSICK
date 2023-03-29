@@ -6,7 +6,7 @@ This project implements a Java program that shuffles an ArrayList of elements us
 
 ## Example Output
 Here's an example output of the program:
-(README2.JPG)
+![Sample Output](README2.jpg)
 
 ## Sample Output
 
