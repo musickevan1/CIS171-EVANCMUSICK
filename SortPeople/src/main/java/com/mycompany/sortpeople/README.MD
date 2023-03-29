@@ -6,7 +6,7 @@ This program demonstrates how to sort an ArrayList of Person objects using a sta
 
 ## Example Output
 
-![Sample Output](README3.jpg)
+![Sample Output](README3.JPG)
 
 ## Analysis Steps
 The requirements for the program were to create a Person class with four fields and a static method to load test data, and to create a static sort method that sorts an ArrayList of any type that implements Comparable. I designed the program to use a nested Person class that implements the Comparable interface to allow sorting by name. The sort method uses a selection sort algorithm to sort the ArrayList in ascending order.
