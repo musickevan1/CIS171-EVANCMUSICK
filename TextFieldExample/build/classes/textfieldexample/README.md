@@ -1,18 +1,18 @@
-##Project Title
+## Project Title
 JavaFX Text Field Example
 
-##Example Output
+## Example Output
 Sample Output
 
-##Analysis Steps
+## Analysis Steps
 The requirements for this project are to create a JavaFX program that dynamically adjusts the horizontal alignment and column size of a text field based on user input. To accomplish this, the program should have a text field, radio buttons for horizontal alignment, and a text field for column size.
 
 To begin, I analyzed the requirements and decided to use a VBox to hold the text field, radio buttons, and column size text field. I used a ToggleGroup to group the radio buttons together, and set the initial alignment to center. For the column size text field, I added an event handler to adjust the column size of the text field and its width based on the value entered by the user.
 
-##Design
+## Design
 For the design of the program, I used a single class that extends Application. I used JavaFX layout managers (VBox, HBox) to arrange the UI components, and used a monospace font to ensure that each character had the same width. I used lambda expressions to set the event handlers for the radio buttons and column size text field.
 
-##Testing
+## Testing
 Launch the program
 Type some text in the main text field
 Click the "Left" radio button - the text should move to the left of the text field
