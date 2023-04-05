@@ -5,7 +5,7 @@ This program is designed to generate prime numbers up to a user-specified limit 
 
 ## Example Output
 This image will display as your example output. Name the image README.jpg in your project folder.
-![Sample Output](README.jpg)
+![Sample Output](README.jpg.JPG)
 
 ## Analysis Steps
 1. Prompt the user to enter the maximum number `n` to find prime numbers up to that limit.
