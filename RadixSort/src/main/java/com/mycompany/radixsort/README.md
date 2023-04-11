@@ -17,26 +17,26 @@ public class RadixSort {
 }
 
 ### Testing
-Test the generation of random integers.
+1. Test the generation of random integers.
 int[] randomIntegers = generateRandomIntegers(10, 100);
 System.out.println(Arrays.toString(randomIntegers));
 
-Test the getMax function with a small array.
+2. Test the getMax function with a small array.
 int[] array = {5, 10, 15, 1, 9};
 int max = getMax(array);
 System.out.println("Max value: " + max);
 
-Test the countSort function with a small array and a specific digit.
+3. Test the countSort function with a small array and a specific digit.
 int[] array = {170, 45, 75, 90, 802, 24, 2, 66};
 countSort(array, array.length, 1);
 System.out.println(Arrays.toString(array));
 
-Test the full radixSort function with a small array.
+4. Test the full radixSort function with a small array.
 int[] array = {170, 45, 75, 90, 802, 24, 2, 66};
 radixSort(array);
 System.out.println(Arrays.toString(array));
 
-Test the complete program with 1,000,000 integers.
+5. Test the complete program with 1,000,000 integers.
 int[] array = generateRandomIntegers(ARRAY_SIZE, MAX_VALUE);
 radixSort(array);
 System.out.println(Arrays.toString(array));
