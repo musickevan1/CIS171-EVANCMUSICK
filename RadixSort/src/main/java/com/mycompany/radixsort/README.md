@@ -1,5 +1,5 @@
 # Radix Sort
-This Java program generates 1,000,000 random integers with a maximum value of 100,000, sorts them using radix sort, and prints the sorted array. The code includes comments explaining each part of the program, as well as a header with the title, author, date, and course section.
+This Java program generates 1,000,000 random integers with a maximum value of 100,000, sorts them using radix sort, and prints the sorted array.
 
 ## Example Output
 ![Sample Output](README.png)
