@@ -3,7 +3,7 @@
 This is a Java Swing application developed to simplify the process of ordering at Subway. It allows users to choose from a variety of options including sandwich size, bread type, meat type, cheese type, up to three types of vegetables, sauce type, and optional extras.
 
 ## Example Output
-![Sample Output](README.jpg)
+![Sample Output](READ3ME.jpg)
 
 ## Analysis Steps
 The task was to develop a GUI application that simulates a Subway order system. The program needed to include options for different sandwich sizes, types of bread, meat, cheese, vegetables, sauces, and extras. The chosen options are displayed in a summary when the user submits their order. To accomplish this, we used the Swing library in Java for the graphical user interface, and structured the program in a single class, SubwayOrderSystem.
