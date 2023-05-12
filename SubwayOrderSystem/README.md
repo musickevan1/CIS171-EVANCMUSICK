@@ -1,5 +1,4 @@
-# Project Title
-Subway Order System
+# Subway Order System
 
 This is a Java Swing application developed to simplify the process of ordering at Subway. It allows users to choose from a variety of options including sandwich size, bread type, meat type, cheese type, up to three types of vegetables, sauce type, and optional extras.
 
